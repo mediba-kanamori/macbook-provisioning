@@ -11,6 +11,7 @@
       - homebrew/binary
       - homebrew/dupes
       - caskroom/cask
+      - caskroom/versions
       - railwaycat/emacsmacport
       - sanemat/font
     homebrew_packages:
@@ -54,6 +55,7 @@
       - { name: iterm2 }
       - { name: firefox }
       - { name: google-chrome }
+      - { name: google-chrome-canary }
       - { name: google-japanese-ime }
       - { name: adobe-reader }
       - { name: java }
