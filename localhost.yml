@@ -75,6 +75,7 @@
       - { name: sourcetree }
       - { name: gyazo }
       - { name: adobe-creative-cloud }
+      - { name: rescuetime }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
