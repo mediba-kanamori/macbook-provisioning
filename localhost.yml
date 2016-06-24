@@ -74,6 +74,7 @@
       - { name: amazon-music }
       - { name: sourcetree }
       - { name: gyazo }
+      - { name: adobe-creative-cloud }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
